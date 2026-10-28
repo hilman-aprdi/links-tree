@@ -24,6 +24,9 @@ Videos & daily life.
 **05. [Instagram](https://www.instagram.com/mnaprd_)**  
 Photos & moments.
 
+**06. [Medium](https://medium.com/@imhilman)**  
+Reflection
+
 ---
 
 `Made with Markdown. No fancy stuff.`
